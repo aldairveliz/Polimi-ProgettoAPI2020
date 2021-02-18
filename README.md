@@ -2,8 +2,9 @@
 
 Lo scopo del progetto è quello di implementare un editor di testi in linguaggio C standard.
 
-Descrizione [qui]
-Specifica [qui]
+Descrizione [qui](https://github.com/aldairveliz/Polimi-ProgettoAPI2020/blob/main/documents/ProvaFinale2020.pdf)
+
+Specifica [qui](https://github.com/aldairveliz/Polimi-ProgettoAPI2020/blob/main/documents/ProvaFinale2020specifica.pdf)
 
 Valutazione conseguita: 29/30
 
